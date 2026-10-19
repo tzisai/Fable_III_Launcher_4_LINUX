@@ -67,7 +67,3 @@ If the Steam client itself is installed in a different location, also set `STEAM
 ## Scope
 
 This setup was verified to reach Fable III's character selection screen on one Arch Linux machine; game builds and hardware can differ. Online features were not tested.
-
-## Publish this guide on GitHub
-
-Create a public repository, then upload only `README.md`, `run-fable3.sh`, and `.gitignore` from this folder. Add a license on GitHub if you want to give others permission to reuse or change your script; MIT is a common permissive choice. Do not upload the `Fable 3` directory or any game archives, executables, or DLLs.
